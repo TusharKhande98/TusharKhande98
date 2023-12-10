@@ -3,7 +3,7 @@
 <h3 align="center"> Backend developer 💻</h3>
 <img  align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/15/02/27/360_F_315022751_vg1XCkEIsspb0LIP8bCwUKVhINP69wOv.jpg"/>
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning ** Java development | Javascript development **
 
 - 💬 Ask me about  Javascript ,  Corejava ,  JDBC ,  Servlet ,  SQL ,  Html , Css
 
