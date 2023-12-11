@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Java development | Javascript development**
 
-- 💬 Ask me about  Javascript ,  Core Java ,  JDBC ,  Servlet ,  SQL ,  HTML ,  CSS
+- 💬 Ask me about  Javascript , Core Java , JDBC , Servlet , SQL , HTML , CSS
 
 - 📫 How to reach me **tusharkhande98@gmail.com**
 
 <h3 align="left">Connect With Me:- </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tushar-khande-338196210/" target="blank"><img align="center" src="https://www.resumepilots.com/cdn/shop/articles/LinkedIn_Background_Photos_700x700.jpg?v=1627932870" alt="Tushar LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tushar-khande-338196210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tushar LinkedIn" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
