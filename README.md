@@ -3,9 +3,9 @@
 <h3 align="center"> Backend Developer 💻</h3>
 <img  align="right" alt="Coding-image" width="400" src="https://t4.ftcdn.net/jpg/03/15/02/27/360_F_315022751_vg1XCkEIsspb0LIP8bCwUKVhINP69wOv.jpg"/>
 
-- 🌱 I’m currently learning **Java development | Javascript development**
+- 🌱 I’m currently learning **Java development | Backend development**
 
-- 💬 Ask me about  Javascript , Core Java , JDBC , Servlet , SQL , HTML , CSS
+- 💬 Ask me about   Core Java , JDBC , JSP-Servlet, Hibernate-JPA , Spring , SpringBoot , SQL , Javascript
 
 - 📫 How to reach me **tusharkhande98@gmail.com**
 
