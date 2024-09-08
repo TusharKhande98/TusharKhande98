@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center"> Backend Developer 💻</h3>
+<h3 align="center"> Automation Tester 💻</h3>
 <img  align="right" alt="Coding-image" width="400" src="https://t4.ftcdn.net/jpg/03/15/02/27/360_F_315022751_vg1XCkEIsspb0LIP8bCwUKVhINP69wOv.jpg"/>
 
-- 🌱 I’m currently learning **Java development | Backend development**
+- 🌱 I’m currently learning **Selenium | Web automation**
 
-- 💬 Ask me about   Core Java , JDBC , JSP-Servlet, Hibernate-JPA , Spring , SpringBoot , SQL , Javascript
+- 💬 Ask me about   Core Java , Automation Testing , Manual testing , Regression , Sanity , Selenium , Web Driver , Javascript
 
 - 📫 How to reach me **tusharkhande98@gmail.com**
 
