@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Selenium | Web automation**
 
-- 💬 Ask me about   Core Java , Automation Testing , Manual testing , Regression , Sanity , Selenium , Web Driver , Javascript
+- 💬 Ask me about   Core Java , SQL, Automation Testing , Selenium , Web Driver , Manual testing , Regression , Sanity , Javascript
 
 - 📫 How to reach me **tusharkhande98@gmail.com**
 
