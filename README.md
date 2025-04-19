@@ -27,8 +27,9 @@
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>   
 &nbsp;
+<!-- 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>   
-&nbsp;
+&nbsp;-->
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git-api" width="40" height="40"/>   
 &nbsp;
 
