@@ -7,7 +7,7 @@
 
 - 💬 Ask me about   Core Java , SQL, Automation Testing , Selenium , Web Driver , Manual testing , Regression , Sanity , Javascript
 
-- 📫 How to reach me **tusharkhande98@gmail.com**
+- 📫 How to reach me **tusharkhande9@gmail.com**
 
 <h3 align="left">Connect With Me:- </h3>
 <p align="left">
