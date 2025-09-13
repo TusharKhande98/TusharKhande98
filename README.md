@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center"> Automation Tester 💻</h3>
+<h3 align="center"> Manual Tester 💻</h3>
 <img  align="right" alt="Coding-image" width="400" src="https://t4.ftcdn.net/jpg/03/15/02/27/360_F_315022751_vg1XCkEIsspb0LIP8bCwUKVhINP69wOv.jpg"/>
 
 - 🌱 I’m currently learning **Selenium | Web automation**
